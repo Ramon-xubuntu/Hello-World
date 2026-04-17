@@ -1,2 +1,3 @@
-# Hello-World
-Este repositorio es para practicar el flujo de GitHub.
+# Sobre mi
+
+Mi nombre es Ramon Sandoval
